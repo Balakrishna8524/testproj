@@ -83,7 +83,7 @@ function closeModal(id) {
 
 <!-- Project Card -->
 <div class="project-card" onclick="openModal('modal1')">
-  <img src="https://via.placeholder.com/300" alt="Project 1">
+  <img src="path/to/main/image1.jpg" alt="Project 1">
   <div class="project-card-title">Project 1</div>
 </div>
 
@@ -94,16 +94,16 @@ function closeModal(id) {
     <h2>Project 1</h2>
     <p>Description of Project 1</p>
     <div class="project-details">
-      <img src="https://via.placeholder.com/600x400" alt="Screenshot 1">
-      <img src="https://via.placeholder.com/600x400" alt="Screenshot 2">
-      <img src="https://via.placeholder.com/600x400" alt="Screenshot 3">
+      <img src="path/to/image1.jpg" alt="Screenshot 1">
+      <img src="path/to/image2.jpg" alt="Screenshot 2">
+      <img src="path/to/image3.jpg" alt="Screenshot 3">
     </div>
   </div>
 </div>
 
 <!-- Repeat for other projects -->
 <div class="project-card" onclick="openModal('modal2')">
-  <img src="https://via.placeholder.com/300" alt="Project 2">
+  <img src="path/to/main/image2.jpg" alt="Project 2">
   <div class="project-card-title">Project 2</div>
 </div>
 
@@ -113,9 +113,9 @@ function closeModal(id) {
     <h2>Project 2</h2>
     <p>Description of Project 2</p>
     <div class="project-details">
-      <img src="https://via.placeholder.com/600x400" alt="Screenshot 1">
-      <img src="https://via.placeholder.com/600x400" alt="Screenshot 2">
-      <img src="https://via.placeholder.com/600x400" alt="Screenshot 3">
+      <img src="path/to/image1.jpg" alt="Screenshot 1">
+      <img src="path/to/image2.jpg" alt="Screenshot 2">
+      <img src="path/to/image3.jpg" alt="Screenshot 3">
     </div>
   </div>
 </div>
