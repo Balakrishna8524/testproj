@@ -113,7 +113,7 @@ function closeModal(id) {
     <h2>Project 2</h2>
     <p>Description of Project 2</p>
     <div class="project-details">
-      <img src="https://via.placeholder.com/300" alt="Screenshot 1">
+      <img src="https://via.placeholder.com/300" alt="Screenshot 1" style="width:100px;">
       <img src="https://via.placeholder.com/300" alt="Screenshot 2">
       <img src="https://via.placeholder.com/300" alt="Screenshot 3">
     </div>
